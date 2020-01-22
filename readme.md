@@ -14,6 +14,12 @@
 - 장비 Data 기반의 공정 최적화 시스템
 - FDC, RMS, APC 
   
+  RMS(Recipe Management System)
+
+  제품을 진행하는 Recipe와 Parameter(Recipe의 세부조건)를 통합 관리하여 작업자나 엔지니어의 실수로 인한 Recipe 관련 대형 사고를 예방. 
+  RMS는 현장에서 운영하는 Recipe의 변경이력을 관리하고, System에 등록된 Recipe와 설비에 존재하는 Recipe의 Spec을 매 제품 진행시마다 
+  Validation 및 Interlock을 통하여 품질사고를 방지.
+
   FDC(Fault Detection and Classification) 
   
   설비 Data(각종 센서의 시그널) 실시간으로 수집하고 분석하여 설비의 Fault를 실시간 감지 및 모니터링 한다. 
