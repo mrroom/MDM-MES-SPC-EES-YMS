@@ -13,6 +13,7 @@
 ### EES(Equipment Engineering System)
 - 장비 Data 기반의 공정 최적화 시스템
 - FDC, RMS, APC 
+  
   FDC 
   - 레시피는 경보 또는 제어를 설정하는방법 혹은 룰을 의미합니다.
   - 기본적으로 수집하는 데이터의 임계값을 통해 경보를 설정합니다.
