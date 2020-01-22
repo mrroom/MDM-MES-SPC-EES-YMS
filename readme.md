@@ -9,6 +9,8 @@
 ### SPC(Statistical Process Control)
 - 공정에 얻어진 DATA(검사 DATA)를 통계적으로 해석하여 샘플 DATA에 의한 평가의 오류를 최소화하기 위한 공정 관리 시스템
 - 공정모니터, 통계해석, 관리도, 공정능력
+- [정밀측정기기의 단편 지식](http://www.mitutoyokorea.com/upload/Customer/Catalog/2016012710226384.pdf)
+- [교정측정분야 입문자를 위한 입문자를 위한 측정기 관리의 이해](https://www.kasto.or.kr/program/%EC%B8%A1%EC%A0%95%EA%B8%B0%EA%B4%80%EB%A6%AC%EC%9D%98_%EC%9D%B4%ED%95%B4.pdf)
 
 ### EES(Equipment Engineering System)
 - 장비 Data 기반의 공정 최적화 시스템
